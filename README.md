@@ -24,24 +24,24 @@ Omok and chess ♞ are my hobbies, and I play Battlegrounds 🔫. <br>
 
 **Languages**
 <br>
-<code><img height="20" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/java.png"></code>
+<img height="50" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/java.png">
 <br>
 
 **Framework and tools**
 <br>
-<code><img height="20" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/spring-framework.png"></code>
-<code><img height="20" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/mybatis.png"></code>
-<code><img height="20" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/hibernate.png"></code>
+<img height="50" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/spring-framework.png">
+<img height="50" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/mybatis.png">
+<img height="50" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/hibernate.png">
 <br>
 
 **RDBMS**
 <br>
-<code><img height="20" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/mysql.png"></code>
+<img height="50" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/mysql.png">
 <br>
 
 **OS**
 <br>
-<code><img height="20" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/linux.png"></code>
+<img height="50" src="https://github.com/joohyun333/joohyun333/blob/main/resource/logo/linux.png">
 
 <hr>
 
