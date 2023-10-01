@@ -1,7 +1,6 @@
-<h1>👋🏻 Hey, nice to see you.</h1>
+<h1>👋🏻 안녕하세요👋🏻 </h1>
 <br>
 
-Hi👋🏻 <br>
 I'm joohyun lee, a web developer 👨🏻‍💻 who lives in Gyeonggi-do, Korea. <br>
 I like to observe and solve problems as much as possible. <br>
 However, if encountering a problem that can't solve, I enjoy analyzing 🕵️‍♂️ the cause and studying 🧑‍💻.<br>
