@@ -1,4 +1,4 @@
-<h1>👋🏻 안녕하세요👋🏻 </h1>
+<h1>안녕하세요👋🏻 </h1>
 <br>
 
 I'm joohyun lee, a web developer 👨🏻‍💻 who lives in Gyeonggi-do, Korea. <br>
