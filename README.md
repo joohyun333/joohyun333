@@ -10,7 +10,7 @@ Omok and chess ♞ are my hobbies, and I play Battlegrounds 🔫. <br>
 
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/tvU9iTev6uBIQ/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/joohyun333/joohyun333/blob/main/resource/gif/4016111266.gif" />
 
 
  - 🔗 How to reach me: [joohyun8468@gmail.com](mailto:abhishekmaira1999@gmail.com);
