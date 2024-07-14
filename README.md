@@ -4,8 +4,6 @@
 I'm web developer 👨🏻‍💻 who lives in Gyeonggi-do, Korea. <br>
 I like to observe and solve problems as much as possible. <br>
 However, if encountering a problem that can't solve, I enjoy analyzing 🕵️‍♂️ the cause and studying 🧑‍💻.<br>
-Omok and chess ♞ are my hobbies, and I play Battlegrounds 🔫. <br>
-
 <br>
 
 
